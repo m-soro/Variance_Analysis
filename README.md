@@ -1,6 +1,6 @@
 # Variance_Analysis
 
-> An Excel report generator for Inventory Variance in Adaco, just drag and drop!
+> An Excel report generator for Inventory Variance in Adaco, built in google colab. Just drag and drop!
 
 **What's the use of this?**
 
