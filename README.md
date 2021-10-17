@@ -10,7 +10,7 @@
 
 **How I built this?**
 
->I started by converting this document to a csv then converted it to a pandas DataFrame, from here I dropped unneccessary columns and rows. Then, write and save this DataFrame to an excel sheet, complete with time that its generated and name of the specific outlet. After generation, this excel report will auto-download and completely ready for analysis &#58158;. 
+>I started by converting this document to a csv then converted it to a pandas DataFrame, from here I dropped unneccessary columns and rows. Then, write and save this DataFrame to an excel sheet, complete with time that its generated and name of the specific outlet. After generation, this excel report will auto-download and completely ready for analysis &#xe32e;. 
 
 **Libraries used**:
 * glob
