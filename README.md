@@ -4,7 +4,7 @@
 
 **What's the use of this?**
 
->Every end-of-month, I spend an insumountable amount of time &#8987; (two to four hours, depending on distractions&#128530;) flipping over 60+ pages &#128196; of inventory reports, looking for duplicates items in our system generated pdf. Unfortunately importing this pdf document into a workable format like excel never quite achieves the expected result, columns positions and descriptions doesn't match, a lot processing is involve just to get this report in a workable format. 
+>Every end-of-month, I spend an insumountable amount of time &#8987; (two to four hours, depending on distractions&#128530;) flipping over 60+ pages &#128196; of inventory reports, looking for duplicates items in our system generated pdf. Unfortunately importing this pdf document into a workable format like excel never quite achieves the expected result, columns positions and descriptions doesn't match, a lot of processing is involve just to get this report in a workable format. 
 
 >After learning Pandas from my Udacity course, I decided to create an app that automates the tedious processing of this document. My month-end processes &#128197; is more smoother and faster. This saves me and other managers hours. Mistakes are easily spotted &#128270; and corrected &#9989;.   
 
