@@ -1,5 +1,7 @@
 # Variance_Analysis
 
+<img src='https://www.logisticsbureau.com/blog/wp-content/uploads/2012/05/Blog_What-is-Inventory.png'>
+
 > An Excel [report generator](https://github.com/m-soro/Variance_Analysis/blob/main/VarianceAnalysis.ipynb) for Inventory Variance in Adaco, built in google colab. Just drag and drop!
 
 **What's the use of this?**
